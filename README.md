@@ -14,11 +14,14 @@ To run this file you have first give "<b>execute</b>" permissions and run it lik
 sudo chmod +x igoofil.sh <br>
 ./igoofil.sh
 
-## Youtube link
-To see this script in action click on the link!
-https://www.youtube.com/watch?v=Bu6-GBhyj0I
+## Gif of the run 
+![Output image](https://github.com/Mayuresh-Github/Igoofil/blob/master/Igoofil-run.gif)
 
 ## Sample run image 
 ![Output image](https://github.com/Mayuresh-Github/Igoofil/blob/master/sample.png)
+
+## Youtube link
+To see this script in action click on the link!
+https://www.youtube.com/watch?v=Bu6-GBhyj0I
 
 
