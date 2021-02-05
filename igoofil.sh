@@ -67,7 +67,7 @@ done
 
 #Check for IP of the hosts found
 
-echo -e "\n\nNow checking for IP addresses of the hosts!!\n"
+echo -e "\n\nNow checking for IP addresses of the hosts..\n"
 
 #Output the IP
 for url in $(cat $filename); do host $url; done 
